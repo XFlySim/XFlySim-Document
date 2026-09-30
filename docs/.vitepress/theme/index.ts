@@ -3,13 +3,14 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import ImageViewer from './ImageViewer.vue'
+import AppFooter from './AppFooter.vue'
 import './style.css'
 
 export default {
   extends: DefaultTheme,
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
-      'layout-bottom': () => h(ImageViewer)
+      'layout-bottom': () => [h(ImageViewer), h(AppFooter)]
     })
   },
   enhanceApp({ app, router, siteData }) {

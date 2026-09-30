@@ -6,15 +6,15 @@ import { useData } from 'vitepress'
 const footerByLang: Record<string, { copyright: string; icp: string }> = {
   'zh-CN': {
     copyright: '© 2026 XFlySim · 保留所有权利',
-    icp: '京ICP备XXXXXXXX号'
+    icp: '辽ICP备2021003671号-2'
   },
   'zh-TW': {
     copyright: '© 2026 XFlySim · 保留所有權利',
-    icp: '京ICP備XXXXXXXX號'
+    icp: '辽ICP备2021003671号-2'
   },
   'en-US': {
     copyright: '© 2026 XFlySim · All rights reserved',
-    icp: 'ICP Filing No.: 京ICP备XXXXXXXX号'
+    icp: 'ICP Filing No.: 辽ICP备2021003671号-2'
   }
 }
 

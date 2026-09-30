@@ -1191,11 +1191,11 @@ var _sfc_main$62 = {
 		};
 	}
 };
-var _sfc_setup$63 = _sfc_main$62.setup;
+var _sfc_setup$64 = _sfc_main$62.setup;
 _sfc_main$62.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPBadge.vue");
-	return _sfc_setup$63 ? _sfc_setup$63(props, ctx) : void 0;
+	return _sfc_setup$64 ? _sfc_setup$64(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPBackdrop.vue
@@ -1213,11 +1213,11 @@ var _sfc_main$61 = {
 		};
 	}
 };
-var _sfc_setup$62 = _sfc_main$61.setup;
+var _sfc_setup$63 = _sfc_main$61.setup;
 _sfc_main$61.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPBackdrop.vue");
-	return _sfc_setup$62 ? _sfc_setup$62(props, ctx) : void 0;
+	return _sfc_setup$63 ? _sfc_setup$63(props, ctx) : void 0;
 };
 var VPBackdrop_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$61, [["__scopeId", "data-v-ea199def"]]);
 //#endregion
@@ -1278,11 +1278,11 @@ var _sfc_main$60 = {
 		};
 	}
 };
-var _sfc_setup$61 = _sfc_main$60.setup;
+var _sfc_setup$62 = _sfc_main$60.setup;
 _sfc_main$60.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/NotFound.vue");
-	return _sfc_setup$61 ? _sfc_setup$61(props, ctx) : void 0;
+	return _sfc_setup$62 ? _sfc_setup$62(props, ctx) : void 0;
 };
 var NotFound_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$60, [["__scopeId", "data-v-189da333"]]);
 //#endregion
@@ -1303,11 +1303,11 @@ var _sfc_main$59 = {
 		};
 	}
 };
-var _sfc_setup$60 = _sfc_main$59.setup;
+var _sfc_setup$61 = _sfc_main$59.setup;
 _sfc_main$59.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocAsideCarbonAds.vue");
-	return _sfc_setup$60 ? _sfc_setup$60(props, ctx) : void 0;
+	return _sfc_setup$61 ? _sfc_setup$61(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPDocOutlineItem.vue
@@ -1338,11 +1338,11 @@ var _sfc_main$58 = {
 		};
 	}
 };
-var _sfc_setup$59 = _sfc_main$58.setup;
+var _sfc_setup$60 = _sfc_main$58.setup;
 _sfc_main$58.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocOutlineItem.vue");
-	return _sfc_setup$59 ? _sfc_setup$59(props, ctx) : void 0;
+	return _sfc_setup$60 ? _sfc_setup$60(props, ctx) : void 0;
 };
 var VPDocOutlineItem_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$58, [["__scopeId", "data-v-a7228af7"]]);
 //#endregion
@@ -1371,11 +1371,11 @@ var _sfc_main$57 = {
 		};
 	}
 };
-var _sfc_setup$58 = _sfc_main$57.setup;
+var _sfc_setup$59 = _sfc_main$57.setup;
 _sfc_main$57.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocAsideOutline.vue");
-	return _sfc_setup$58 ? _sfc_setup$58(props, ctx) : void 0;
+	return _sfc_setup$59 ? _sfc_setup$59(props, ctx) : void 0;
 };
 var VPDocAsideOutline_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$57, [["__scopeId", "data-v-230a2956"]]);
 //#endregion
@@ -1401,11 +1401,11 @@ var _sfc_main$56 = {
 		};
 	}
 };
-var _sfc_setup$57 = _sfc_main$56.setup;
+var _sfc_setup$58 = _sfc_main$56.setup;
 _sfc_main$56.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocAside.vue");
-	return _sfc_setup$57 ? _sfc_setup$57(props, ctx) : void 0;
+	return _sfc_setup$58 ? _sfc_setup$58(props, ctx) : void 0;
 };
 var VPDocAside_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$56, [["__scopeId", "data-v-117643ad"]]);
 //#endregion
@@ -1478,11 +1478,11 @@ var _sfc_main$55 = {
 		};
 	}
 };
-var _sfc_setup$56 = _sfc_main$55.setup;
+var _sfc_setup$57 = _sfc_main$55.setup;
 _sfc_main$55.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocFooterLastUpdated.vue");
-	return _sfc_setup$56 ? _sfc_setup$56(props, ctx) : void 0;
+	return _sfc_setup$57 ? _sfc_setup$57(props, ctx) : void 0;
 };
 var VPDocFooterLastUpdated_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$55, [["__scopeId", "data-v-a94c41c2"]]);
 //#endregion
@@ -1541,11 +1541,11 @@ var _sfc_main$54 = {
 		};
 	}
 };
-var _sfc_setup$55 = _sfc_main$54.setup;
+var _sfc_setup$56 = _sfc_main$54.setup;
 _sfc_main$54.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPLink.vue");
-	return _sfc_setup$55 ? _sfc_setup$55(props, ctx) : void 0;
+	return _sfc_setup$56 ? _sfc_setup$56(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPDocFooter.vue
@@ -1635,11 +1635,11 @@ var _sfc_main$53 = {
 		};
 	}
 };
-var _sfc_setup$54 = _sfc_main$53.setup;
+var _sfc_setup$55 = _sfc_main$53.setup;
 _sfc_main$53.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocFooter.vue");
-	return _sfc_setup$54 ? _sfc_setup$54(props, ctx) : void 0;
+	return _sfc_setup$55 ? _sfc_setup$55(props, ctx) : void 0;
 };
 var VPDocFooter_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$53, [["__scopeId", "data-v-b328ff8a"]]);
 //#endregion
@@ -1712,11 +1712,11 @@ var _sfc_main$52 = {
 		};
 	}
 };
-var _sfc_setup$53 = _sfc_main$52.setup;
+var _sfc_setup$54 = _sfc_main$52.setup;
 _sfc_main$52.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDoc.vue");
-	return _sfc_setup$53 ? _sfc_setup$53(props, ctx) : void 0;
+	return _sfc_setup$54 ? _sfc_setup$54(props, ctx) : void 0;
 };
 var VPDoc_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$52, [["__scopeId", "data-v-e0c79c31"]]);
 //#endregion
@@ -1727,11 +1727,11 @@ function _sfc_ssrRender$3(_ctx, _push, _parent, _attrs) {
 	ssrRenderSlot(_ctx.$slots, "default", {}, null, _push, _parent);
 	_push(`</div>`);
 }
-var _sfc_setup$52 = _sfc_main$51.setup;
+var _sfc_setup$53 = _sfc_main$51.setup;
 _sfc_main$51.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHomeContent.vue");
-	return _sfc_setup$52 ? _sfc_setup$52(props, ctx) : void 0;
+	return _sfc_setup$53 ? _sfc_setup$53(props, ctx) : void 0;
 };
 var VPHomeContent_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$51, [["ssrRender", _sfc_ssrRender$3], ["__scopeId", "data-v-24cfbf57"]]);
 //#endregion
@@ -1780,11 +1780,11 @@ var _sfc_main$50 = /*@__PURE__*/ Object.assign({ inheritAttrs: false }, {
 		};
 	}
 });
-var _sfc_setup$51 = _sfc_main$50.setup;
+var _sfc_setup$52 = _sfc_main$50.setup;
 _sfc_main$50.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPImage.vue");
-	return _sfc_setup$51 ? _sfc_setup$51(props, ctx) : void 0;
+	return _sfc_setup$52 ? _sfc_setup$52(props, ctx) : void 0;
 };
 var VPImage_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$50, [["__scopeId", "data-v-453cd2d1"]]);
 //#endregion
@@ -1922,11 +1922,11 @@ var _sfc_main$49 = {
 		};
 	}
 };
-var _sfc_setup$50 = _sfc_main$49.setup;
+var _sfc_setup$51 = _sfc_main$49.setup;
 _sfc_main$49.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPFeature.vue");
-	return _sfc_setup$50 ? _sfc_setup$50(props, ctx) : void 0;
+	return _sfc_setup$51 ? _sfc_setup$51(props, ctx) : void 0;
 };
 var VPFeature_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$49, [["__scopeId", "data-v-f20d54ef"]]);
 //#endregion
@@ -1969,11 +1969,11 @@ var _sfc_main$48 = {
 		};
 	}
 };
-var _sfc_setup$49 = _sfc_main$48.setup;
+var _sfc_setup$50 = _sfc_main$48.setup;
 _sfc_main$48.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPFeatures.vue");
-	return _sfc_setup$49 ? _sfc_setup$49(props, ctx) : void 0;
+	return _sfc_setup$50 ? _sfc_setup$50(props, ctx) : void 0;
 };
 var VPFeatures_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$48, [["__scopeId", "data-v-aff0b625"]]);
 //#endregion
@@ -1992,11 +1992,11 @@ var _sfc_main$47 = {
 		};
 	}
 };
-var _sfc_setup$48 = _sfc_main$47.setup;
+var _sfc_setup$49 = _sfc_main$47.setup;
 _sfc_main$47.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHomeFeatures.vue");
-	return _sfc_setup$48 ? _sfc_setup$48(props, ctx) : void 0;
+	return _sfc_setup$49 ? _sfc_setup$49(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPButton.vue
@@ -2059,11 +2059,11 @@ var _sfc_main$46 = {
 		};
 	}
 };
-var _sfc_setup$47 = _sfc_main$46.setup;
+var _sfc_setup$48 = _sfc_main$46.setup;
 _sfc_main$46.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPButton.vue");
-	return _sfc_setup$47 ? _sfc_setup$47(props, ctx) : void 0;
+	return _sfc_setup$48 ? _sfc_setup$48(props, ctx) : void 0;
 };
 var VPButton_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$46, [["__scopeId", "data-v-6356dfe3"]]);
 //#endregion
@@ -2145,11 +2145,11 @@ var _sfc_main$45 = {
 		};
 	}
 };
-var _sfc_setup$46 = _sfc_main$45.setup;
+var _sfc_setup$47 = _sfc_main$45.setup;
 _sfc_main$45.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHero.vue");
-	return _sfc_setup$46 ? _sfc_setup$46(props, ctx) : void 0;
+	return _sfc_setup$47 ? _sfc_setup$47(props, ctx) : void 0;
 };
 var VPHero_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$45, [["__scopeId", "data-v-32cafb29"]]);
 //#endregion
@@ -2198,11 +2198,11 @@ var _sfc_main$44 = {
 		};
 	}
 };
-var _sfc_setup$45 = _sfc_main$44.setup;
+var _sfc_setup$46 = _sfc_main$44.setup;
 _sfc_main$44.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHomeHero.vue");
-	return _sfc_setup$45 ? _sfc_setup$45(props, ctx) : void 0;
+	return _sfc_setup$46 ? _sfc_setup$46(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPHome.vue
@@ -2258,11 +2258,11 @@ var _sfc_main$43 = {
 		};
 	}
 };
-var _sfc_setup$44 = _sfc_main$43.setup;
+var _sfc_setup$45 = _sfc_main$43.setup;
 _sfc_main$43.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHome.vue");
-	return _sfc_setup$44 ? _sfc_setup$44(props, ctx) : void 0;
+	return _sfc_setup$45 ? _sfc_setup$45(props, ctx) : void 0;
 };
 var VPHome_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$43, [["__scopeId", "data-v-c6199a69"]]);
 //#endregion
@@ -2276,11 +2276,11 @@ function _sfc_ssrRender$2(_ctx, _push, _parent, _attrs) {
 	ssrRenderSlot(_ctx.$slots, "page-bottom", {}, null, _push, _parent);
 	_push(`</div>`);
 }
-var _sfc_setup$43 = _sfc_main$42.setup;
+var _sfc_setup$44 = _sfc_main$42.setup;
 _sfc_main$42.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPPage.vue");
-	return _sfc_setup$43 ? _sfc_setup$43(props, ctx) : void 0;
+	return _sfc_setup$44 ? _sfc_setup$44(props, ctx) : void 0;
 };
 var VPPage_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$42, [["ssrRender", _sfc_ssrRender$2]]);
 //#endregion
@@ -2411,11 +2411,11 @@ var _sfc_main$41 = {
 		};
 	}
 };
-var _sfc_setup$42 = _sfc_main$41.setup;
+var _sfc_setup$43 = _sfc_main$41.setup;
 _sfc_main$41.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPContent.vue");
-	return _sfc_setup$42 ? _sfc_setup$42(props, ctx) : void 0;
+	return _sfc_setup$43 ? _sfc_setup$43(props, ctx) : void 0;
 };
 var VPContent_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$41, [["__scopeId", "data-v-b934d83e"]]);
 //#endregion
@@ -2438,11 +2438,11 @@ var _sfc_main$40 = {
 		};
 	}
 };
-var _sfc_setup$41 = _sfc_main$40.setup;
+var _sfc_setup$42 = _sfc_main$40.setup;
 _sfc_main$40.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPFooter.vue");
-	return _sfc_setup$41 ? _sfc_setup$41(props, ctx) : void 0;
+	return _sfc_setup$42 ? _sfc_setup$42(props, ctx) : void 0;
 };
 var VPFooter_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$40, [["__scopeId", "data-v-0fe63196"]]);
 //#endregion
@@ -2603,11 +2603,11 @@ var _sfc_main$39 = {
 		};
 	}
 };
-var _sfc_setup$40 = _sfc_main$39.setup;
+var _sfc_setup$41 = _sfc_main$39.setup;
 _sfc_main$39.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPLocalNavOutlineDropdown.vue");
-	return _sfc_setup$40 ? _sfc_setup$40(props, ctx) : void 0;
+	return _sfc_setup$41 ? _sfc_setup$41(props, ctx) : void 0;
 };
 var VPLocalNavOutlineDropdown_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$39, [["__scopeId", "data-v-b9336427"]]);
 //#endregion
@@ -2651,11 +2651,11 @@ var _sfc_main$38 = {
 		};
 	}
 };
-var _sfc_setup$39 = _sfc_main$38.setup;
+var _sfc_setup$40 = _sfc_main$38.setup;
 _sfc_main$38.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPLocalNav.vue");
-	return _sfc_setup$39 ? _sfc_setup$39(props, ctx) : void 0;
+	return _sfc_setup$40 ? _sfc_setup$40(props, ctx) : void 0;
 };
 var VPLocalNav_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$38, [["__scopeId", "data-v-86f10958"]]);
 //#endregion
@@ -2902,11 +2902,11 @@ function _sfc_ssrRender$1(_ctx, _push, _parent, _attrs) {
 	} else _push(`<!---->`);
 	_push(`</span></button>`);
 }
-var _sfc_setup$38 = _sfc_main$37.setup;
+var _sfc_setup$39 = _sfc_main$37.setup;
 _sfc_main$37.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSwitch.vue");
-	return _sfc_setup$38 ? _sfc_setup$38(props, ctx) : void 0;
+	return _sfc_setup$39 ? _sfc_setup$39(props, ctx) : void 0;
 };
 var VPSwitch_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$37, [["ssrRender", _sfc_ssrRender$1], ["__scopeId", "data-v-127358ab"]]);
 //#endregion
@@ -2946,11 +2946,11 @@ var _sfc_main$36 = {
 		};
 	}
 };
-var _sfc_setup$37 = _sfc_main$36.setup;
+var _sfc_setup$38 = _sfc_main$36.setup;
 _sfc_main$36.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSwitchAppearance.vue");
-	return _sfc_setup$37 ? _sfc_setup$37(props, ctx) : void 0;
+	return _sfc_setup$38 ? _sfc_setup$38(props, ctx) : void 0;
 };
 var VPSwitchAppearance_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$36, [["__scopeId", "data-v-2e76c223"]]);
 //#endregion
@@ -2989,11 +2989,11 @@ var _sfc_main$35 = {
 		};
 	}
 };
-var _sfc_setup$36 = _sfc_main$35.setup;
+var _sfc_setup$37 = _sfc_main$35.setup;
 _sfc_main$35.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavAppearance.vue");
-	return _sfc_setup$36 ? _sfc_setup$36(props, ctx) : void 0;
+	return _sfc_setup$37 ? _sfc_setup$37(props, ctx) : void 0;
 };
 var VPNavAppearance_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$35, [["__scopeId", "data-v-b1d5eb1e"]]);
 //#endregion
@@ -3082,11 +3082,11 @@ var _sfc_main$34 = /*@__PURE__*/ Object.assign({ inheritAttrs: false }, {
 		};
 	}
 });
-var _sfc_setup$35 = _sfc_main$34.setup;
+var _sfc_setup$36 = _sfc_main$34.setup;
 _sfc_main$34.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPMenuLink.vue");
-	return _sfc_setup$35 ? _sfc_setup$35(props, ctx) : void 0;
+	return _sfc_setup$36 ? _sfc_setup$36(props, ctx) : void 0;
 };
 var VPMenuLink_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$34, [["__scopeId", "data-v-d7165732"]]);
 //#endregion
@@ -3131,11 +3131,11 @@ var _sfc_main$33 = {
 		};
 	}
 };
-var _sfc_setup$34 = _sfc_main$33.setup;
+var _sfc_setup$35 = _sfc_main$33.setup;
 _sfc_main$33.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPMenuGroup.vue");
-	return _sfc_setup$34 ? _sfc_setup$34(props, ctx) : void 0;
+	return _sfc_setup$35 ? _sfc_setup$35(props, ctx) : void 0;
 };
 var VPMenuGroup_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$33, [["__scopeId", "data-v-8a73a473"]]);
 //#endregion
@@ -3169,11 +3169,11 @@ var _sfc_main$32 = {
 		};
 	}
 };
-var _sfc_setup$33 = _sfc_main$32.setup;
+var _sfc_setup$34 = _sfc_main$32.setup;
 _sfc_main$32.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPMenu.vue");
-	return _sfc_setup$33 ? _sfc_setup$33(props, ctx) : void 0;
+	return _sfc_setup$34 ? _sfc_setup$34(props, ctx) : void 0;
 };
 var VPMenu_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$32, [["__scopeId", "data-v-a835e0c5"]]);
 //#endregion
@@ -3249,11 +3249,11 @@ var _sfc_main$31 = {
 		};
 	}
 };
-var _sfc_setup$32 = _sfc_main$31.setup;
+var _sfc_setup$33 = _sfc_main$31.setup;
 _sfc_main$31.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPFlyout.vue");
-	return _sfc_setup$32 ? _sfc_setup$32(props, ctx) : void 0;
+	return _sfc_setup$33 ? _sfc_setup$33(props, ctx) : void 0;
 };
 var VPFlyout_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$31, [["__scopeId", "data-v-92ecaa7c"]]);
 //#endregion
@@ -3345,11 +3345,11 @@ var _sfc_main$30 = {
 		};
 	}
 };
-var _sfc_setup$31 = _sfc_main$30.setup;
+var _sfc_setup$32 = _sfc_main$30.setup;
 _sfc_main$30.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavTranslations.vue");
-	return _sfc_setup$31 ? _sfc_setup$31(props, ctx) : void 0;
+	return _sfc_setup$32 ? _sfc_setup$32(props, ctx) : void 0;
 };
 var VPNavTranslations_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$30, [["__scopeId", "data-v-ef80053b"]]);
 //#endregion
@@ -3375,11 +3375,11 @@ var _sfc_main$29 = {
 		};
 	}
 };
-var _sfc_setup$30 = _sfc_main$29.setup;
+var _sfc_setup$31 = _sfc_main$29.setup;
 _sfc_main$29.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPIcon.vue");
-	return _sfc_setup$30 ? _sfc_setup$30(props, ctx) : void 0;
+	return _sfc_setup$31 ? _sfc_setup$31(props, ctx) : void 0;
 };
 var VPIcon_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$29, [["__scopeId", "data-v-ac9da605"]]);
 //#endregion
@@ -3425,11 +3425,11 @@ var _sfc_main$28 = {
 		};
 	}
 };
-var _sfc_setup$29 = _sfc_main$28.setup;
+var _sfc_setup$30 = _sfc_main$28.setup;
 _sfc_main$28.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSocialLink.vue");
-	return _sfc_setup$29 ? _sfc_setup$29(props, ctx) : void 0;
+	return _sfc_setup$30 ? _sfc_setup$30(props, ctx) : void 0;
 };
 var VPSocialLink_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$28, [["__scopeId", "data-v-75f3ae3a"]]);
 //#endregion
@@ -3466,11 +3466,11 @@ var _sfc_main$27 = {
 		};
 	}
 };
-var _sfc_setup$28 = _sfc_main$27.setup;
+var _sfc_setup$29 = _sfc_main$27.setup;
 _sfc_main$27.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSocialLinks.vue");
-	return _sfc_setup$28 ? _sfc_setup$28(props, ctx) : void 0;
+	return _sfc_setup$29 ? _sfc_setup$29(props, ctx) : void 0;
 };
 var VPSocialLinks_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$27, [["__scopeId", "data-v-bf5b9ad4"]]);
 //#endregion
@@ -3569,11 +3569,11 @@ var _sfc_main$26 = {
 		};
 	}
 };
-var _sfc_setup$27 = _sfc_main$26.setup;
+var _sfc_setup$28 = _sfc_main$26.setup;
 _sfc_main$26.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarExtra.vue");
-	return _sfc_setup$27 ? _sfc_setup$27(props, ctx) : void 0;
+	return _sfc_setup$28 ? _sfc_setup$28(props, ctx) : void 0;
 };
 var VPNavBarExtra_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$26, [["__scopeId", "data-v-c193803d"]]);
 //#endregion
@@ -3605,11 +3605,11 @@ var _sfc_main$25 = {
 		};
 	}
 };
-var _sfc_setup$26 = _sfc_main$25.setup;
+var _sfc_setup$27 = _sfc_main$25.setup;
 _sfc_main$25.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarHamburger.vue");
-	return _sfc_setup$26 ? _sfc_setup$26(props, ctx) : void 0;
+	return _sfc_setup$27 ? _sfc_setup$27(props, ctx) : void 0;
 };
 var VPNavBarHamburger_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$25, [["__scopeId", "data-v-f895b5e0"]]);
 //#endregion
@@ -3739,11 +3739,11 @@ function _sfc_ssrRender(_ctx, _push, _parent, _attrs) {
 		class: "VPNavBarAskAiButton"
 	}, _attrs))} data-v-6679af46><span class="vpi-sparkles" aria-hidden="true" data-v-6679af46></span></button>`);
 }
-var _sfc_setup$25 = _sfc_main$24.setup;
+var _sfc_setup$26 = _sfc_main$24.setup;
 _sfc_main$24.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarAskAiButton.vue");
-	return _sfc_setup$25 ? _sfc_setup$25(props, ctx) : void 0;
+	return _sfc_setup$26 ? _sfc_setup$26(props, ctx) : void 0;
 };
 var VPNavBarAskAiButton_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$24, [["ssrRender", _sfc_ssrRender], ["__scopeId", "data-v-6679af46"]]);
 //#endregion
@@ -3764,11 +3764,11 @@ var _sfc_main$23 = {
 		};
 	}
 };
-var _sfc_setup$24 = _sfc_main$23.setup;
+var _sfc_setup$25 = _sfc_main$23.setup;
 _sfc_main$23.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarSearchButton.vue");
-	return _sfc_setup$24 ? _sfc_setup$24(props, ctx) : void 0;
+	return _sfc_setup$25 ? _sfc_setup$25(props, ctx) : void 0;
 };
 var VPNavBarSearchButton_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$23, [["__scopeId", "data-v-573637dc"]]);
 //#endregion
@@ -3848,11 +3848,11 @@ var _sfc_main$22 = {
 		};
 	}
 };
-var _sfc_setup$23 = _sfc_main$22.setup;
+var _sfc_setup$24 = _sfc_main$22.setup;
 _sfc_main$22.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarSearch.vue");
-	return _sfc_setup$23 ? _sfc_setup$23(props, ctx) : void 0;
+	return _sfc_setup$24 ? _sfc_setup$24(props, ctx) : void 0;
 };
 var VPNavBarSearch_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$22, [["__scopeId", "data-v-b09c5db8"]]);
 //#endregion
@@ -3887,11 +3887,11 @@ var _sfc_main$21 = {
 		};
 	}
 };
-var _sfc_setup$22 = _sfc_main$21.setup;
+var _sfc_setup$23 = _sfc_main$21.setup;
 _sfc_main$21.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBarTitle.vue");
-	return _sfc_setup$22 ? _sfc_setup$22(props, ctx) : void 0;
+	return _sfc_setup$23 ? _sfc_setup$23(props, ctx) : void 0;
 };
 var VPNavBarTitle_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$21, [["__scopeId", "data-v-3cb61e0b"]]);
 //#endregion
@@ -3968,11 +3968,11 @@ var _sfc_main$20 = {
 		};
 	}
 };
-var _sfc_setup$21 = _sfc_main$20.setup;
+var _sfc_setup$22 = _sfc_main$20.setup;
 _sfc_main$20.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavMenuGroup.vue");
-	return _sfc_setup$21 ? _sfc_setup$21(props, ctx) : void 0;
+	return _sfc_setup$22 ? _sfc_setup$22(props, ctx) : void 0;
 };
 var VPNavMenuGroup_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$20, [["__scopeId", "data-v-feb345c7"]]);
 //#endregion
@@ -4020,11 +4020,11 @@ var _sfc_main$19 = {
 		};
 	}
 };
-var _sfc_setup$20 = _sfc_main$19.setup;
+var _sfc_setup$21 = _sfc_main$19.setup;
 _sfc_main$19.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavMenuLink.vue");
-	return _sfc_setup$20 ? _sfc_setup$20(props, ctx) : void 0;
+	return _sfc_setup$21 ? _sfc_setup$21(props, ctx) : void 0;
 };
 var VPNavMenuLink_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$19, [["__scopeId", "data-v-60fe87c8"]]);
 //#endregion
@@ -4068,11 +4068,11 @@ var _sfc_main$18 = {
 		};
 	}
 };
-var _sfc_setup$19 = _sfc_main$18.setup;
+var _sfc_setup$20 = _sfc_main$18.setup;
 _sfc_main$18.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavMenu.vue");
-	return _sfc_setup$19 ? _sfc_setup$19(props, ctx) : void 0;
+	return _sfc_setup$20 ? _sfc_setup$20(props, ctx) : void 0;
 };
 var VPNavMenu_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$18, [["__scopeId", "data-v-0474edcd"]]);
 //#endregion
@@ -4099,11 +4099,11 @@ var _sfc_main$17 = {
 		};
 	}
 };
-var _sfc_setup$18 = _sfc_main$17.setup;
+var _sfc_setup$19 = _sfc_main$17.setup;
 _sfc_main$17.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavSocialLinks.vue");
-	return _sfc_setup$18 ? _sfc_setup$18(props, ctx) : void 0;
+	return _sfc_setup$19 ? _sfc_setup$19(props, ctx) : void 0;
 };
 var VPNavSocialLinks_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$17, [["__scopeId", "data-v-b82bf4eb"]]);
 //#endregion
@@ -4159,11 +4159,11 @@ var _sfc_main$16 = {
 		};
 	}
 };
-var _sfc_setup$17 = _sfc_main$16.setup;
+var _sfc_setup$18 = _sfc_main$16.setup;
 _sfc_main$16.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavBar.vue");
-	return _sfc_setup$17 ? _sfc_setup$17(props, ctx) : void 0;
+	return _sfc_setup$18 ? _sfc_setup$18(props, ctx) : void 0;
 };
 var VPNavBar_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$16, [["__scopeId", "data-v-dac69e74"]]);
 //#endregion
@@ -4215,11 +4215,11 @@ var _sfc_main$15 = {
 		};
 	}
 };
-var _sfc_setup$16 = _sfc_main$15.setup;
+var _sfc_setup$17 = _sfc_main$15.setup;
 _sfc_main$15.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNavScreen.vue");
-	return _sfc_setup$16 ? _sfc_setup$16(props, ctx) : void 0;
+	return _sfc_setup$17 ? _sfc_setup$17(props, ctx) : void 0;
 };
 var VPNavScreen_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$15, [["__scopeId", "data-v-be8a6ff8"]]);
 //#endregion
@@ -4278,11 +4278,11 @@ var _sfc_main$14 = {
 		};
 	}
 };
-var _sfc_setup$15 = _sfc_main$14.setup;
+var _sfc_setup$16 = _sfc_main$14.setup;
 _sfc_main$14.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPNav.vue");
-	return _sfc_setup$15 ? _sfc_setup$15(props, ctx) : void 0;
+	return _sfc_setup$16 ? _sfc_setup$16(props, ctx) : void 0;
 };
 var VPNav_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$14, [["__scopeId", "data-v-f733e610"]]);
 //#endregion
@@ -4414,11 +4414,11 @@ var _sfc_main$13 = {
 		};
 	}
 };
-var _sfc_setup$14 = _sfc_main$13.setup;
+var _sfc_setup$15 = _sfc_main$13.setup;
 _sfc_main$13.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSidebarItem.vue");
-	return _sfc_setup$14 ? _sfc_setup$14(props, ctx) : void 0;
+	return _sfc_setup$15 ? _sfc_setup$15(props, ctx) : void 0;
 };
 var VPSidebarItem_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$13, [["__scopeId", "data-v-d6fbf2e2"]]);
 //#endregion
@@ -4459,11 +4459,11 @@ var _sfc_main$12 = {
 		};
 	}
 };
-var _sfc_setup$13 = _sfc_main$12.setup;
+var _sfc_setup$14 = _sfc_main$12.setup;
 _sfc_main$12.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSidebarGroup.vue");
-	return _sfc_setup$13 ? _sfc_setup$13(props, ctx) : void 0;
+	return _sfc_setup$14 ? _sfc_setup$14(props, ctx) : void 0;
 };
 var VPSidebarGroup_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$12, [["__scopeId", "data-v-70d1d59e"]]);
 //#endregion
@@ -4511,11 +4511,11 @@ var _sfc_main$11 = {
 		};
 	}
 };
-var _sfc_setup$12 = _sfc_main$11.setup;
+var _sfc_setup$13 = _sfc_main$11.setup;
 _sfc_main$11.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSidebar.vue");
-	return _sfc_setup$12 ? _sfc_setup$12(props, ctx) : void 0;
+	return _sfc_setup$13 ? _sfc_setup$13(props, ctx) : void 0;
 };
 var VPSidebar_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$11, [["__scopeId", "data-v-e6e41a9f"]]);
 //#endregion
@@ -4537,11 +4537,11 @@ var _sfc_main$10 = {
 		};
 	}
 };
-var _sfc_setup$11 = _sfc_main$10.setup;
+var _sfc_setup$12 = _sfc_main$10.setup;
 _sfc_main$10.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSkipLink.vue");
-	return _sfc_setup$11 ? _sfc_setup$11(props, ctx) : void 0;
+	return _sfc_setup$12 ? _sfc_setup$12(props, ctx) : void 0;
 };
 var VPSkipLink_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$10, [["__scopeId", "data-v-426d5ecb"]]);
 //#endregion
@@ -4720,11 +4720,11 @@ var _sfc_main$9 = {
 		};
 	}
 };
-var _sfc_setup$10 = _sfc_main$9.setup;
+var _sfc_setup$11 = _sfc_main$9.setup;
 _sfc_main$9.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/Layout.vue");
-	return _sfc_setup$10 ? _sfc_setup$10(props, ctx) : void 0;
+	return _sfc_setup$11 ? _sfc_setup$11(props, ctx) : void 0;
 };
 var Layout_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$9, [["__scopeId", "data-v-7aa807ef"]]);
 //#endregion
@@ -4847,11 +4847,11 @@ var _sfc_main$8 = {
 		};
 	}
 };
-var _sfc_setup$9 = _sfc_main$8.setup;
+var _sfc_setup$10 = _sfc_main$8.setup;
 _sfc_main$8.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSponsorsGrid.vue");
-	return _sfc_setup$9 ? _sfc_setup$9(props, ctx) : void 0;
+	return _sfc_setup$10 ? _sfc_setup$10(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue
@@ -4905,11 +4905,11 @@ var _sfc_main$7 = {
 		};
 	}
 };
-var _sfc_setup$8 = _sfc_main$7.setup;
+var _sfc_setup$9 = _sfc_main$7.setup;
 _sfc_main$7.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPSponsors.vue");
-	return _sfc_setup$8 ? _sfc_setup$8(props, ctx) : void 0;
+	return _sfc_setup$9 ? _sfc_setup$9(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue
@@ -4943,11 +4943,11 @@ var _sfc_main$6 = {
 		};
 	}
 };
-var _sfc_setup$7 = _sfc_main$6.setup;
+var _sfc_setup$8 = _sfc_main$6.setup;
 _sfc_main$6.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPDocAsideSponsors.vue");
-	return _sfc_setup$7 ? _sfc_setup$7(props, ctx) : void 0;
+	return _sfc_setup$8 ? _sfc_setup$8(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue
@@ -4994,11 +4994,11 @@ var _sfc_main$5 = {
 		};
 	}
 };
-var _sfc_setup$6 = _sfc_main$5.setup;
+var _sfc_setup$7 = _sfc_main$5.setup;
 _sfc_main$5.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPHomeSponsors.vue");
-	return _sfc_setup$6 ? _sfc_setup$6(props, ctx) : void 0;
+	return _sfc_setup$7 ? _sfc_setup$7(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPTeamMembersItem.vue
@@ -5069,11 +5069,11 @@ var _sfc_main$4 = {
 		};
 	}
 };
-var _sfc_setup$5 = _sfc_main$4.setup;
+var _sfc_setup$6 = _sfc_main$4.setup;
 _sfc_main$4.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPTeamMembersItem.vue");
-	return _sfc_setup$5 ? _sfc_setup$5(props, ctx) : void 0;
+	return _sfc_setup$6 ? _sfc_setup$6(props, ctx) : void 0;
 };
 var VPTeamMembersItem_default = /*#__PURE__*/ _plugin_vue_export_helper_default(_sfc_main$4, [["__scopeId", "data-v-f4922697"]]);
 //#endregion
@@ -5107,38 +5107,38 @@ var _sfc_main$3 = {
 		};
 	}
 };
-var _sfc_setup$4 = _sfc_main$3.setup;
+var _sfc_setup$5 = _sfc_main$3.setup;
 _sfc_main$3.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPTeamMembers.vue");
-	return _sfc_setup$4 ? _sfc_setup$4(props, ctx) : void 0;
+	return _sfc_setup$5 ? _sfc_setup$5(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue
 var _sfc_main$2 = {};
-var _sfc_setup$3 = _sfc_main$2.setup;
+var _sfc_setup$4 = _sfc_main$2.setup;
 _sfc_main$2.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPTeamPage.vue");
-	return _sfc_setup$3 ? _sfc_setup$3(props, ctx) : void 0;
+	return _sfc_setup$4 ? _sfc_setup$4(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue
 var _sfc_main$1 = {};
-var _sfc_setup$2 = _sfc_main$1.setup;
+var _sfc_setup$3 = _sfc_main$1.setup;
 _sfc_main$1.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPTeamPageSection.vue");
-	return _sfc_setup$2 ? _sfc_setup$2(props, ctx) : void 0;
+	return _sfc_setup$3 ? _sfc_setup$3(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue
 var _sfc_main = {};
-var _sfc_setup$1 = _sfc_main.setup;
+var _sfc_setup$2 = _sfc_main.setup;
 _sfc_main.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add("../node_modules/vitepress/dist/client/theme-default/components/VPTeamPageTitle.vue");
-	return _sfc_setup$1 ? _sfc_setup$1(props, ctx) : void 0;
+	return _sfc_setup$2 ? _sfc_setup$2(props, ctx) : void 0;
 };
 //#endregion
 //#region node_modules/vitepress/dist/client/theme-default/without-fonts.js
@@ -5239,19 +5239,55 @@ var ImageViewer_vue_vue_type_script_setup_true_lang_default = /*@__PURE__*/ defi
 });
 //#endregion
 //#region docs/.vitepress/theme/ImageViewer.vue
-var _sfc_setup = ImageViewer_vue_vue_type_script_setup_true_lang_default.setup;
+var _sfc_setup$1 = ImageViewer_vue_vue_type_script_setup_true_lang_default.setup;
 ImageViewer_vue_vue_type_script_setup_true_lang_default.setup = (props, ctx) => {
 	const ssrContext = useSSRContext();
 	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add(".vitepress/theme/ImageViewer.vue");
-	return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+	return _sfc_setup$1 ? _sfc_setup$1(props, ctx) : void 0;
 };
 var ImageViewer_default = ImageViewer_vue_vue_type_script_setup_true_lang_default;
+//#endregion
+//#region docs/.vitepress/theme/AppFooter.vue?vue&type=script&setup=true&lang.ts
+var AppFooter_vue_vue_type_script_setup_true_lang_default = /*@__PURE__*/ defineComponent({
+	__name: "AppFooter",
+	__ssrInlineRender: true,
+	setup(__props) {
+		const footerByLang = {
+			"zh-CN": {
+				copyright: "© 2026 XFlySim · 保留所有权利",
+				icp: "京ICP备XXXXXXXX号"
+			},
+			"zh-TW": {
+				copyright: "© 2026 XFlySim · 保留所有權利",
+				icp: "京ICP備XXXXXXXX號"
+			},
+			"en-US": {
+				copyright: "© 2026 XFlySim · All rights reserved",
+				icp: "ICP Filing No.: 京ICP备XXXXXXXX号"
+			}
+		};
+		const { lang } = useData$1();
+		const footer = computed(() => footerByLang[lang.value] ?? footerByLang["zh-CN"]);
+		return (_ctx, _push, _parent, _attrs) => {
+			_push(`<footer${ssrRenderAttrs(mergeProps({ class: "xfly-footer" }, _attrs))} data-v-cba462ad><div class="xfly-footer-inner" data-v-cba462ad><span class="xfly-footer-item" data-v-cba462ad>${ssrInterpolate(footer.value.copyright)}</span><span class="xfly-footer-item" data-v-cba462ad><a href="https://beian.miit.gov.cn/" target="_blank" rel="noreferrer" data-v-cba462ad>${ssrInterpolate(footer.value.icp)}</a></span></div></footer>`);
+		};
+	}
+});
+//#endregion
+//#region docs/.vitepress/theme/AppFooter.vue
+var _sfc_setup = AppFooter_vue_vue_type_script_setup_true_lang_default.setup;
+AppFooter_vue_vue_type_script_setup_true_lang_default.setup = (props, ctx) => {
+	const ssrContext = useSSRContext();
+	(ssrContext.modules || (ssrContext.modules = /* @__PURE__ */ new Set())).add(".vitepress/theme/AppFooter.vue");
+	return _sfc_setup ? _sfc_setup(props, ctx) : void 0;
+};
+var AppFooter_default = /*#__PURE__*/ _plugin_vue_export_helper_default(AppFooter_vue_vue_type_script_setup_true_lang_default, [["__scopeId", "data-v-cba462ad"]]);
 //#endregion
 //#region docs/.vitepress/theme/index.ts
 var theme_default = {
 	extends: theme,
 	Layout: () => {
-		return h(theme.Layout, null, { "layout-bottom": () => h(ImageViewer_default) });
+		return h(theme.Layout, null, { "layout-bottom": () => [h(ImageViewer_default), h(AppFooter_default)] });
 	},
 	enhanceApp({ app, router, siteData }) {}
 };
