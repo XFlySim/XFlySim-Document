@@ -30,5 +30,5 @@ This tutorial covers Microsoft Flight Simulator 2020 and 2024, and explains how 
 ## Notes
 
 - Connecting directly on taxiways, runways or other non-stand positions is strictly prohibited.
-- Please carefully read the [User Guidelines](/en/rules) before flying.
+- Please carefully read the [User Guidelines](/en/rules/user-rules) before flying.
 - In controlled airspace, listen to ATC instructions and observe the "left-window yield principle".

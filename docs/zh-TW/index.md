@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "XFlySim 文檔"
-  text: "XFlySim 連飛平台文件中心"
+  text: "XFlySim 連飛文件中心"
   tagline: 用戶準則 · 連線教學 · 平台資訊
   image:
     src: /logo.png
@@ -12,19 +12,22 @@ hero:
   actions:
     - theme: brand
       text: 快速開始
-      link: /zh-TW/tutorial
+      link: /zh-TW/tutorial/
     - theme: alt
       text: 用戶準則
-      link: /zh-TW/rules
+      link: /zh-TW/rules/user-rules
 
 features:
   - title: 連線教學
     details: 從註冊呼號到首次連線飛行，一步步帶你走進 XFLYSIM 連飛世界。
-    link: /zh-TW/tutorial
+    link: /zh-TW/tutorial/
   - title: 用戶準則
     details: 了解連飛伺服器秩序與行為規範，做一個合格的航空器駕駛員。
-    link: /zh-TW/rules
+    link: /zh-TW/rules/user-rules
+  - title: 航空知識
+    details: 了解 RVSM 米制飛行高度層與高度表撥正等實用航空知識。
+    link: /zh-TW/knowledge/
   - title: 社群共建
     details: 文件開源託管於 GitHub，歡迎每一位社群成員參與編寫與翻譯。
-    link: /zh-TW/contributors
+    link: /zh-TW/contributors/
 ---

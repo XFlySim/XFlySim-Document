@@ -1,1 +1,0 @@
-import{G as e,W as t,n,rt as r}from"./chunks/framework.9o07hMZQ.js";var i=JSON.parse(`{"title":"连线教程","description":"","frontmatter":{},"headers":[],"relativePath":"tutorial.md","filePath":"tutorial.md","lastUpdated":0}`),a={name:`tutorial.md`};function o(n,i,a,o,s,c){return r(),t(`div`,null,[...i[0]||=[e("",21)]])}var s=n(a,[[`render`,o]]);export{i as __pageData,s as default};
