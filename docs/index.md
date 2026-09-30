@@ -3,23 +3,28 @@
 layout: home
 
 hero:
-  name: "XFlySim Document"
-  text: "XFlySim Document Site"
-  tagline: My great project tagline
+  name: "XFlySim 文档"
+  text: "XFlySim 连飞平台文档中心"
+  tagline: 用户准则 · 连线教程 · 平台资讯
+  image:
+    src: /logo.png
+    alt: XFlySim
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /tutorial
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 用户准则
+      link: /rules
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 连线教程
+    details: 从注册呼号到首次连线飞行，一步步带你走进 XFLYSIM 连飞世界。
+    link: /tutorial
+  - title: 用户准则
+    details: 了解连飞服务器秩序与行为规范，做一个合格的航空器驾驶员。
+    link: /rules
+  - title: 社区共建
+    details: 文档开源托管于 GitHub，欢迎每一位社区成员参与编写与翻译。
+    link: /contributors
 ---
-
