@@ -1,7 +1,7 @@
 # X-Plane 11/12 连线教程
 
 ::: tip 说明
-本页面为图片版教程框架，文字说明待补充。截图来源：XFLYSIM 空中交通管制中心《使用 swift 连线 xflysim 以及机模包配置教程》（目标平台：X-PLANE12 & X-PLANE11，教程版本 v1.3）。
+本页面来源：XFLYSIM 空中交通管制中心《使用 swift 连线 xflysim 以及机模包配置教程》（目标平台：X-PLANE12 & X-PLANE11，教程版本 v1.3）。
 :::
 
 <!-- TODO：请在此处填写说明文字 -->

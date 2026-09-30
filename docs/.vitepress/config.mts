@@ -108,6 +108,37 @@ export default defineConfig({
           formatOptions: { dateStyle: "short", timeStyle: "short" },
         },
         docFooter: { prev: "上一頁", next: "下一頁" },
+        search: {
+          provider: "local",
+          options: {
+            detailedView: true,
+            translations: {
+              button: { buttonText: "搜尋文件" },
+              modal: {
+                displayDetails: "顯示詳細列表",
+                resetButtonTitle: "重設搜尋",
+                backButtonTitle: "關閉搜尋",
+                noResultsText: "未找到相關結果：",
+                footer: {
+                  selectText: "選擇",
+                  selectKeyAriaLabel: "Enter",
+                  navigateText: "導航",
+                  navigateUpKeyAriaLabel: "上箭頭",
+                  navigateDownKeyAriaLabel: "下箭頭",
+                  closeText: "關閉",
+                  closeKeyAriaLabel: "esc"
+                }
+              }
+            },
+            miniSearch: {
+              searchOptions: {
+                fuzzy: 0.2,
+                prefix: true,
+                boost: { title: 4, titles: 3, text: 1 }
+              }
+            }
+          }
+        },
         nav: [
           { text: "首頁", link: "/zh-TW/" },
           {
@@ -193,6 +224,19 @@ export default defineConfig({
           formatOptions: { dateStyle: "short", timeStyle: "short" },
         },
         docFooter: { prev: "Previous", next: "Next" },
+        search: {
+          provider: "local",
+          options: {
+            detailedView: true,
+            miniSearch: {
+              searchOptions: {
+                fuzzy: 0.2,
+                prefix: true,
+                boost: { title: 4, titles: 3, text: 1 }
+              }
+            }
+          }
+        },
         nav: [
           { text: "Home", link: "/en/" },
           {
