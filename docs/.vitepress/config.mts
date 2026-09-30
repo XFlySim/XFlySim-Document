@@ -108,37 +108,6 @@ export default defineConfig({
           formatOptions: { dateStyle: "short", timeStyle: "short" },
         },
         docFooter: { prev: "上一頁", next: "下一頁" },
-        search: {
-          provider: "local",
-          options: {
-            detailedView: true,
-            translations: {
-              button: { buttonText: "搜尋文件" },
-              modal: {
-                displayDetails: "顯示詳細列表",
-                resetButtonTitle: "重設搜尋",
-                backButtonTitle: "關閉搜尋",
-                noResultsText: "未找到相關結果：",
-                footer: {
-                  selectText: "選擇",
-                  selectKeyAriaLabel: "Enter",
-                  navigateText: "導航",
-                  navigateUpKeyAriaLabel: "上箭頭",
-                  navigateDownKeyAriaLabel: "下箭頭",
-                  closeText: "關閉",
-                  closeKeyAriaLabel: "esc"
-                }
-              }
-            },
-            miniSearch: {
-              searchOptions: {
-                fuzzy: 0.2,
-                prefix: true,
-                boost: { title: 4, titles: 3, text: 1 }
-              }
-            }
-          }
-        },
         nav: [
           { text: "首頁", link: "/zh-TW/" },
           {
@@ -224,19 +193,6 @@ export default defineConfig({
           formatOptions: { dateStyle: "short", timeStyle: "short" },
         },
         docFooter: { prev: "Previous", next: "Next" },
-        search: {
-          provider: "local",
-          options: {
-            detailedView: true,
-            miniSearch: {
-              searchOptions: {
-                fuzzy: 0.2,
-                prefix: true,
-                boost: { title: 4, titles: 3, text: 1 }
-              }
-            }
-          }
-        },
         nav: [
           { text: "Home", link: "/en/" },
           {
@@ -317,6 +273,61 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    search: {
+      provider: "local",
+      options: {
+        detailedView: true,
+        locales: {
+          root: {
+            translations: {
+              button: { buttonText: "搜索文档" },
+              modal: {
+                displayDetails: "显示详细列表",
+                resetButtonTitle: "重置搜索",
+                backButtonTitle: "关闭搜索",
+                noResultsText: "未找到相关结果：",
+                footer: {
+                  selectText: "选择",
+                  selectKeyAriaLabel: "回车",
+                  navigateText: "导航",
+                  navigateUpKeyAriaLabel: "上箭头",
+                  navigateDownKeyAriaLabel: "下箭头",
+                  closeText: "关闭",
+                  closeKeyAriaLabel: "esc"
+                }
+              }
+            }
+          },
+          "zh-TW": {
+            translations: {
+              button: { buttonText: "搜尋文件" },
+              modal: {
+                displayDetails: "顯示詳細列表",
+                resetButtonTitle: "重設搜尋",
+                backButtonTitle: "關閉搜尋",
+                noResultsText: "未找到相關結果：",
+                footer: {
+                  selectText: "選擇",
+                  selectKeyAriaLabel: "Enter",
+                  navigateText: "導航",
+                  navigateUpKeyAriaLabel: "上箭頭",
+                  navigateDownKeyAriaLabel: "下箭頭",
+                  closeText: "關閉",
+                  closeKeyAriaLabel: "esc"
+                }
+              }
+            }
+          }
+        },
+        miniSearch: {
+          searchOptions: {
+            fuzzy: 0.2,
+            prefix: true,
+            boost: { title: 4, titles: 3, text: 1 }
+          }
+        }
+      }
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/XFlySim/XFlySim-Document" },
     ],
