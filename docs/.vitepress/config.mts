@@ -43,6 +43,7 @@ export default defineConfig({
                 text: "航空知识",
                 link: "/knowledge/",
               },
+              { text: "API 开发文档", link: "/api/" },
               { text: "贡献成员", link: "/contributors/" },
             ],
           },
@@ -74,6 +75,16 @@ export default defineConfig({
                 link: "/knowledge/rvsm",
               },
               { text: "过渡高度与高度表拨正", link: "/knowledge/altimeter" },
+            ],
+          },
+          {
+            text: "API 开发文档",
+            items: [
+              { text: "接口总览", link: "/api/" },
+              { text: "活动管理", link: "/api/activity" },
+              { text: "EFB 航行情报", link: "/api/efb" },
+              { text: "Infinite Flight", link: "/api/infinite-flight" },
+              { text: "XVoice 语音", link: "/api/xvoice" },
             ],
           },
           {
