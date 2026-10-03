@@ -34,3 +34,7 @@
 | Infinite Flight | <kbd>infinite-flight-controller</kbd> | 6 | [/api/infinite-flight](/api/infinite-flight) |
 | XVoice 语音 | <kbd>xvoice-controller</kbd> | 2 | [/api/xvoice](/api/xvoice) |
 
+## 开发文档
+
+- [FSD 通讯协议参考](/api/fsd-protocol)：Legacy FSD 文本行协议说明（登录会话、报文类型、位置上报、文本消息、飞行计划、错误码，及与本地客户端实现的对照）。
+

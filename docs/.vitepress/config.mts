@@ -81,6 +81,7 @@ export default defineConfig({
             text: "API 开发文档",
             items: [
               { text: "接口总览", link: "/api/" },
+              { text: "FSD 通讯协议", link: "/api/fsd-protocol" },
               { text: "活动管理", link: "/api/activity" },
               { text: "EFB 航行情报", link: "/api/efb" },
               { text: "Infinite Flight", link: "/api/infinite-flight" },
